@@ -4,7 +4,7 @@ The goal of this project is to predict the results of the second round of the 20
 
 - The candidates which are similar to Kaies Saiid
 - The candidates which are similar to Nabil Karoui
-- The similarity is based on the electoral program, the convictions, the elective category, the number of votes, ...
+The similarity is based on the electoral program, the convictions, the elective category, the number of votes, ...
 
 ## Dataset
 The dataset was constructed based on information taken from the facebook pages and the reports of Sigma Conseil.
